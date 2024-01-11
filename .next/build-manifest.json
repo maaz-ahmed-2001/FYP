@@ -1,0 +1,58 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/QciM2e81FtUuRkJfHXuT7/_buildManifest.js",
+    "static/QciM2e81FtUuRkJfHXuT7/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-59c5c889f52620d6.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7d191fc56c0aab8c.js",
+      "static/chunks/pages/index-5df06d12d11f0968.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-59c5c889f52620d6.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7d191fc56c0aab8c.js",
+      "static/css/35dd3036a8abd646.css",
+      "static/chunks/pages/_app-c3151057e90950be.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-59c5c889f52620d6.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7d191fc56c0aab8c.js",
+      "static/chunks/pages/_error-54de1933a164a1ff.js"
+    ],
+    "/contact": [
+      "static/chunks/webpack-59c5c889f52620d6.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7d191fc56c0aab8c.js",
+      "static/chunks/pages/contact-ddcfd32d0874368b.js"
+    ],
+    "/explore": [
+      "static/chunks/webpack-59c5c889f52620d6.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7d191fc56c0aab8c.js",
+      "static/chunks/pages/explore-330e9e582eff7607.js"
+    ],
+    "/forgot-password": [
+      "static/chunks/webpack-59c5c889f52620d6.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7d191fc56c0aab8c.js",
+      "static/chunks/pages/forgot-password-b17b88d72328f676.js"
+    ],
+    "/login": [
+      "static/chunks/webpack-59c5c889f52620d6.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7d191fc56c0aab8c.js",
+      "static/chunks/pages/login-1a1da9cbc56a067b.js"
+    ]
+  },
+  "ampFirstPages": []
+}

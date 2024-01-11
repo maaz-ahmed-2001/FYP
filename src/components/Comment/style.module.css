@@ -1,0 +1,3 @@
+.commentDiv:has(> div:empty) {
+  /* padding: 0 !important; */
+}

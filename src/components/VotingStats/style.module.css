@@ -1,0 +1,7 @@
+.tooltip {
+  opacity: 0;
+}
+
+.bar:hover .tooltip {
+  opacity: 1;
+}
